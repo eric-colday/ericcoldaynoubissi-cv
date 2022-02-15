@@ -13,29 +13,29 @@ const Navigation = () => {
             <div className="navigation">
                 <ul>
                     <li>
-                        <NavLink to="/" activeClassName="navActive">
+                        <NavLink to="/" activeclassname="navActive">
                             <i className="fas fa-home"></i>
                             <span>Accueil</span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink to="/competences" activeClassName="navActive">
+                        <NavLink to="/competences" activeclassname="navActive">
                             <i className="fas fa-mountain"></i>
                             <span>Compétences</span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink to="/portfolio" activeClassName="navActive">
+                        <NavLink to="/portfolio" activeclassname="navActive">
                             <i className="fas fa-images"></i>
                             <span>Portfolio</span>
                         </NavLink>
                     </li>
                     <li>
-                        <NavLink to="/contact" activeClassName="navActive">
+                        <NavLink to="/contact" activeclassname="navActive">
                             <i className="fas fa-address-book"></i>
                             <span>Contact</span>
                         </NavLink>
-                    </li>
+                    </li> 
                 </ul>
             </div>
 
