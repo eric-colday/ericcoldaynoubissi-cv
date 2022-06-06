@@ -6,19 +6,19 @@ const Hobbies = () => {
             <h3>Intérêts</h3>
             <ul>
                 <li className="hobby">
-                    <i className="fas fa-running"></i>
-                    <span>Course à pied</span>
+                    <i className="fas fa-gamepad"></i>
+                    <span>Gaming</span>
                 </li>
                 <li className="hobby">
                     <i className="fas fa-music"></i>
                     <span>Musique</span>
                 </li>
                 <li className="hobby">
-                    <i className="fas fa-hiking"></i>
+                    <i className="fas fa-marker"></i>
                     <span>Dessin</span>
                 </li>
                 <li className="hobby">
-                    <i className="fas fa-rocket"></i>
+                    <i className="fas fa-plane"></i>
                     <span>Voyage</span>
                 </li>
             </ul>

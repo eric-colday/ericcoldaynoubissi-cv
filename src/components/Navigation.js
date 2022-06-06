@@ -6,7 +6,7 @@ const Navigation = () => {
         <div className="sidebar">
             <div className="id">
                 <div className="idContent">
-                    <img src="./media/billGates.jpg" alt="profil-pic"/>
+                    <img src="./media/ericNoubissi.png" alt="profil-pic"/>
                     <h3>Eric Colday Noubissi</h3>
                 </div>
             </div>
@@ -42,22 +42,22 @@ const Navigation = () => {
             <div className="socialNetwork">
                 <ul>
                     <li>
-                        <a href="https://ericcolday.fr/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://www.linkedin.com/in/ecnoubissi/" target="_blank" rel="noopener noreferrer">
                             <i className="fab fa-linkedin"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://ericcolday.fr/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://github.com/eric-colday" target="_blank" rel="noopener noreferrer">
                             <i className="fab fa-github"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://ericcolday.fr/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://twitter.com/EricColday" target="_blank" rel="noopener noreferrer">
                             <i className="fab fa-twitter"></i>
                         </a>
                     </li>
                     <li>
-                        <a href="https://ericcolday.fr/" target="_blank" rel="noopener noreferrer">
+                        <a href="https://codepen.io/eric-colday-noubissi" target="_blank" rel="noopener noreferrer">
                             <i className="fab fa-codepen"></i>
                         </a>
                     </li>

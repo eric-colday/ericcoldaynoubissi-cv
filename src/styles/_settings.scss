@@ -1,14 +1,14 @@
-@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@800&family=Josefin+Sans:wght@100&family=Nova+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Yeseva+One&display=swap');
 
-$font-1: 'Nova Round', cursive;
-$font-2: 'Dosis', sans-serif;
-$font-3: 'Josefin Sans', serif;
+$font-1: 'Yeseva One';
+$font-2: 'Montserrat', sans-serif;
+$font-3: 'Montserrat', serif;
 
-$color-1: #2a1d52;
+$color-1: #C5D3D6;
 $color-2: #6C77F4;
-$color-3: rgb(99, 164, 233);
-$color-4: #4FEDD2;
-$color-5: #36D0EA;
+$color-3: #468dff;
+$color-4: #47d1ff;
+$color-5: #7C8587;
 $white: #ddd;
 $black: #333;
 
@@ -31,7 +31,7 @@ $minHeight: 95vh;
 body {
     margin: 1rem auto;
     max-width: 1200px;
-    font-family: $font-1;
+    font-family: $font-2;
     color: $black;
 }
   

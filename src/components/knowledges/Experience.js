@@ -6,22 +6,20 @@ const Experience = () => {
             <h3>Expériences</h3>
             <div className="exp-1">
                 <h4>Consultant Web/Mobile - FreeLance</h4>
-                <h4>2017 jusqu'à présent</h4>
+                <h4>2021 jusqu'à présent</h4>
                 <p>
-                    Do esse aute veniam cupidatat fugiat in cupidatat. 
-                    Aute id anim minim ea deserunt sint ad aliquip. 
-                    Pariatur commodo minim Lorem labore ea ad commodo sunt mollit et Lorem. 
-                    Non velit proident ullamco veniam minim.
+                    Création de l'interface utilisateur d'un site web ou d'une application web avec HTML5/CSS3 et ReactJS.
+                    Gestion backend avec mongoDB, Express, NodeJS et PHP
                 </p>
             </div>
             <div className="exp-2">
-                <h4>Consultant Web/Mobile - FreeLance</h4>
-                <h4>2017 - 2020</h4>
+                <h4>Consultant Webmarketing - FreeLance</h4>
+                <h4>2017 jusqu'à présent</h4>
                 <p>
-                    Do esse aute veniam cupidatat fugiat in cupidatat. 
-                    Aute id anim minim ea deserunt sint ad aliquip. 
-                    Pariatur commodo minim Lorem labore ea ad commodo sunt mollit et Lorem. 
-                    Non velit proident ullamco veniam minim.
+                    Création et refonte de sites Internet WordPress,
+                    Mission SEO (Audit, recommandations et solutions SEO), Traffic management.
+                    Publicité en ligne (création et gestion des comptes Google Ads, Facebook Ads et Bing Ads)
+                    Gestion des réseaux sociaux
                 </p>
             </div>
         </div>

@@ -50,15 +50,16 @@
   
       h1 {
         text-align: center;
+        font-family: $font-1;
         margin-top: 0.3rem;
         position: relative;
-        color: $color-2;
+        color: $black;
   
         &:after {
           content: '';
           height: 1px;
           width: 50%;
-          background: $color-1;
+          background: $black;
           position: absolute;
           bottom: -25px;
           left: 50%;
@@ -79,7 +80,7 @@
           font-size: 1.4rem;
           position: absolute;
           transform: translateY(2px);
-          color: $color-2;
+          color: $black;
         }
         span {
           font-size: 1.4rem;
@@ -125,7 +126,7 @@
           }
   
           i {
-            color: $color-2;
+            color: $black;
             margin-top: .3rem;
           }
         }
