@@ -13,9 +13,15 @@ const Navigation = () => {
             <div className="navigation">
                 <ul>
                     <li>
-                        <NavLink to="/" activeclassname="navActive">
+                        <a href="http://localhost:8888/wordpress/">
                             <i className="fas fa-home"></i>
                             <span>Accueil</span>
+                        </a>
+                    </li>
+                    <li>
+                        <NavLink to="/" activeclassname="navActive">
+                            <i className="fas fa-home"></i>
+                            <span>Cv</span>
                         </NavLink>
                     </li>
                     <li>
