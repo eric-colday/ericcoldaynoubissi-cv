@@ -20,7 +20,7 @@ const Navigation = () => {
                     </li>
                     <li>
                         <NavLink to="/" activeclassname="navActive">
-                            <i className="fas fa-home"></i>
+                            <i className="fas fa-file-pdf"></i>
                             <span>Cv</span>
                         </NavLink>
                     </li>
