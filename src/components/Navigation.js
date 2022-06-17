@@ -13,7 +13,7 @@ const Navigation = () => {
             <div className="navigation">
                 <ul>
                     <li>
-                        <a href="http://localhost:8888/wordpress/">
+                        <a href="https://www.ericcoldaynoubissi.com/">
                             <i className="fas fa-home"></i>
                             <span>Accueil</span>
                         </a>
